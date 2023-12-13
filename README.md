@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Machine Learning
-- 👯 I’m looking to collaborate on our project UETAI
+- 👯 I’m looking for a PhD position in the field of medical image analysis
 <!--
 **gungui98/gungui98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
